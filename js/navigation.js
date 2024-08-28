@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
     var xhr = new XMLHttpRequest();
   
     // Configure it to fetch the navigation.html file
-    xhr.open('GET', 'navigation.html', true);
+    xhr.open('GET', 'navigation-jm.html', true);
   
     // Set the callback function to handle the response
     xhr.onreadystatechange = function () {
